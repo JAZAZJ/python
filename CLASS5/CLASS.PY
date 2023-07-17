@@ -12,11 +12,11 @@
 # 將輸入數值轉換為布林型態
 # 將輸入數值轉換為字串型態
 # ctrl+?是快速註解的
-print(False)
-print(-1.000)
-print(123)
-print('hello world')
-a = str(999)
+# print(False)
+# print(-1.000)
+# print(123)
+# print('hello world')
+# a = str(999)
 b = str(9998)
 print(a + "" + b)
 #input 函數

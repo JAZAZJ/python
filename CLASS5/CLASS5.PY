@@ -8,5 +8,4 @@ print("我叫做" + name + "我今年" + str(age) + '歲了!')
 # 請輸入你想知道python幾年後的年齡: 10
 age = input("請輸入python的年齡")
 age = int(age) + 10
-
-print()
+print(age)

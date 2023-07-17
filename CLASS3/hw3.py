@@ -10,7 +10,6 @@ print(False)
 程式會顯示出(print)
 你的年齡是9999
 
-'''
-a = input("輸入自己的年齡")
-print("你的年齡是")
-print(a)
+'''a = input("輸入自己的年齡")
+#print("你的年齡是")
+# print(a)

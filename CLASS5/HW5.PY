@@ -4,3 +4,6 @@ EX:
 請輸入python年齡:10
 python與同學年齡加起來16歲
 '''
+python_age = input("請輸入python的年齡")
+python_age = int(python_age) + 8 - 2
+print(python_age)

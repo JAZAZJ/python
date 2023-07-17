@@ -1,0 +1,5 @@
+R = input("請輸入半徑")
+R = float(R)
+pi = 3.14
+A = pi * R * R
+print("園面積:" + A)

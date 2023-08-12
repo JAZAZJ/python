@@ -14,11 +14,11 @@ ex:
 score = int(input("請輸入成績"))
 if score >= 90:
     print("你的等級為A")
-elif score >= 80 and score <= 89:
+elif score >= 80:
     print("你的等級為B")
-elif score >= 70 and score <= 79:
+elif score >= 70:
     print("你的等級為C")
-elif score >= 60 and score <= 69:
+elif score >= 60:
     print("你的等級為D")
 else:
     score <= 59

@@ -10,3 +10,14 @@ ex:
 12
 ....
 '''
+#    Homework - 1
+# import turtle
+# for i in range(0, 6):
+#     turtle.forward(120)
+#     turtle.left(60)
+# print(i)
+# turtle.done()
+
+# Homework - 2
+for i in range(0, 100, 3):
+    print(i)

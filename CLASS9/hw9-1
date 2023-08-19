@@ -1,0 +1,8 @@
+import turtle
+for i in range(0, 6):
+    turtle.forward(120)
+    turtle.left(60)
+    turtle.forward(200)
+    turtle.left(60)
+print(i)
+turtle.done()

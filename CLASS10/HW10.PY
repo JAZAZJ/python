@@ -13,7 +13,7 @@ for i in range(8):
 turtle.home()
 turtle.done()
 
-# homework-2
+# homework - 2
 # import turtle
 # import time
 

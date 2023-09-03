@@ -2,7 +2,7 @@
 # EX: 如果這時候使用者輸入的不是數字就會發生錯誤並離開程式
 
 try:
-     num = int(input("請輸入一個數字"))
+    num = int(input("請輸入一個數字"))
     total = num + 1
     print(total)
 except:

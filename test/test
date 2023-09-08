@@ -1,0 +1,4 @@
+#9/7/2023
+x = int(input("請輸入任意數:"))
+for i in range(1, x):
+    print(i * '*')

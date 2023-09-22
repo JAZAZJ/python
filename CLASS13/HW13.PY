@@ -16,6 +16,5 @@ while True:
         print("您點的商品是葡萄汁")
     elif num == d:
         print("系統關閉")
-        break
     else:
         print("輸入錯誤查無此果汁，請重新輸入")

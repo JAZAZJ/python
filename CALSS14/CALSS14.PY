@@ -11,8 +11,10 @@
 #         print("休息一下")
 #         continue
 #     print("第" + str(i) + "次跳繩")
+
 # random.randrange可跳數,但不能做到結尾
-# import random
+# random.randint 不可跳數但可做到結尾
+import random
 
 # random.randrange(3)
 # print(random.randrange(3))
@@ -28,7 +30,7 @@
 # import random as X
 
 # print(X.randint(i, 10))
-import random
+# import random
 
 ans = random.randint(1, 100)
 while True:

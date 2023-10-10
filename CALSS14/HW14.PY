@@ -7,7 +7,8 @@ ans = random.randint(num1, num2)
 while True:
     b = int(input("%d到%d數字:" % (num1, num2)))
     if b > ans:
-        print("在小一點")
+        print("再小一點")
+        num2 = b - 1
     elif b < ans:
         print("再大一點")
         num1 = b + 1

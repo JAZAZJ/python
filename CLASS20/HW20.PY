@@ -38,6 +38,7 @@ while True:
     b = "2"
     c = "3"
     if num == a:
+
         print(score_list[0])
     elif num == b:
         num = input("請輸入要移除的科目編號:")
@@ -47,4 +48,4 @@ while True:
         print(score_list[2])
     else:
         print("關閉系統")
-        break   
+        break

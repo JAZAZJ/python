@@ -30,11 +30,11 @@
 #               "蘋果", "香蕉", "梨", "李", "桃"]
 # print("最長的水果名稱是" + max(fruit_list))
 # print("最短的水果名稱是" + min(fruit_list))
-# birthday = "2023/10/20"
-# birthday = birthday.split("2")
-# print(birthday)
-# birthday = "+".join(birthday)
-# print(birthday)
+birthday = "2023/10/20"
+birthday = birthday.split("/")
+print(birthday)
+birthday = "-".join(birthday)
+print(birthday)
 # img = ["2023", "10", "20"]
 # x = '-'.join(img)
 # print(x)

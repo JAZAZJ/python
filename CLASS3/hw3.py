@@ -9,7 +9,7 @@ print(False)
 4. 請使用者輸入自己的年齡(input)
 程式會顯示出(print)
 你的年齡是9999
-
-'''a = input("輸入自己的年齡")
+'''
+a = input("輸入自己的年齡")
 #print("你的年齡是")
 # print(a)

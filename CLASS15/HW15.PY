@@ -7,10 +7,7 @@ juices_list = ["蘋果汁","柳橙汁","葡萄汁","系統關閉"]
 # juices_list = ["蘋果汁", "柳橙汁", "葡萄汁", "系統關閉"]
 # print(juices_list)
 while True:
-    # print("1.蘋果汁")
-    # print("2.柳橙汁")
-    # print("3.葡萄汁")
-    # print("4.系統關閉")
+    
     juices_list = ["蘋果汁", "柳橙汁", "葡萄汁", "系統關閉"]
     print(juices_list)
     num = input("請輸入編號:")

@@ -3,16 +3,16 @@
 # for i in range(1, x):
 #     print(i * '*')
 
-num = int(input("請輸入一個數字"))
-if num > 1:
-    for i in range(2, num + 1):
-        if (i % num) == 0:
-            print(num, "不是質數")
-            break
-    else:
-        print(num, "是質數")
-else:
-    print(num, "不是質數")
+# num = int(input("請輸入一個數字"))
+# if num > 1:
+#     for i in range(2, num + 1):
+#         if (i % num) == 0:
+#             print(num, "不是質數")
+#             break
+#     else:
+#         print(num, "是質數")
+# else:
+#     print(num, "不是質數")
 
 # i = 50
 # while i < 100:
@@ -43,3 +43,15 @@ else:
 #     time.sleep(1)
 # else:
 #     print("時間到!")
+
+
+
+
+    # ZZ = A-B
+    # # print(ZZ)
+def my_min(a,b):
+    if a < b:
+        return a
+    else:
+        return b
+print(my_min(12,3))
